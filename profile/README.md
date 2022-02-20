@@ -1,1 +1,1 @@
-# <p align="center"><a href="https://www.studiofelicioni.com/"><img src="https://github.com/studiofelicioni/.github/blob/master/profile/studio-felicioni.png" width="992" height="190" alt="Studio Felicioni"></a></p>
+# <p align="center"><a href="https://www.studiofelicioni.com/"><img src="https://github.com/studiofelicioni/.github/blob/master/profile/studio-felicioni.png" width="418" height="80" alt="Studio Felicioni"></a></p>
